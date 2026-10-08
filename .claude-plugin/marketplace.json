@@ -1,0 +1,17 @@
+{
+  "name": "paragon-mods",
+  "metadata": {
+    "description": "Моды для Claude Code с канала Paragon. Claude Code mods from the Paragon channel."
+  },
+  "owner": {
+    "name": "Paragon",
+    "url": "https://github.com/paragonvideomaking"
+  },
+  "plugins": [
+    {
+      "name": "telegram-notify",
+      "source": "./",
+      "description": "Уведомление в Telegram, когда Claude закончил работу и ждёт тебя. A Telegram message when Claude finishes and waits for you."
+    }
+  ]
+}

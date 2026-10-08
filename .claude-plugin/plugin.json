@@ -1,0 +1,14 @@
+{
+  "name": "telegram-notify",
+  "version": "1.0.0",
+  "description": "Пишет в Telegram, когда Claude закончил работу и ждёт тебя: /notify, /notify always, /notify off, /notify test, /notify setup",
+  "author": {
+    "name": "Paragon",
+    "url": "https://github.com/paragonvideomaking"
+  },
+  "homepage": "https://github.com/paragonvideomaking/paragon-claude-telegram-notify",
+  "repository": "https://github.com/paragonvideomaking/paragon-claude-telegram-notify",
+  "license": "MIT",
+  "keywords": ["telegram", "notifications", "notify", "mod"],
+  "types": "./types/index.d.ts"
+}
