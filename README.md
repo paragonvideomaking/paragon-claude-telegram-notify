@@ -6,7 +6,7 @@
 Дал большую задачу, набрал `/notify` и пошёл пить кофе: бот сообщит, какая была задача,
 сколько она заняла и чем закончилась.
 
-Этот мод написал Claude Code прямо в [ролике канала Paragon](https://youtu.be/NaFtubh5QyY), по одному промпту. Защиту от чужих чатов,
+Этот мод написал Claude Code прямо в [ролике канала Paragon](https://youtu.be/_xPJswwsVnM), по одному промпту. Защиту от чужих чатов,
 лимит ожидания и остальные детали Claude продумал сам.
 
 Неофициальный мод: не связан с Anthropic и Telegram. Моды Claude Code — новая возможность, их API ещё
@@ -151,7 +151,7 @@ A Claude Code mod that messages you on Telegram when Claude finishes its work an
 Give it a big task, type `/notify`, go grab a coffee: the bot tells you what the task was,
 how long it took and how it ended.
 
-Claude Code wrote this mod live in a [Paragon channel video](https://youtu.be/NaFtubh5QyY), from a single prompt. Protection against
+Claude Code wrote this mod live in a [Paragon channel video](https://youtu.be/_xPJswwsVnM), from a single prompt. Protection against
 strangers' chats, the wait limit and the other details Claude worked out on its own.
 The mod's interface and messages are in Russian.
 
